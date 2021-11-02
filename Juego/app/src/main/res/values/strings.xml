@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Juego</string>
+    <string name="Dev">Developer</string>
+    <string name="play">Play</string>
+    <string name="login">LOGIN</string>
+
+    <!-- Main Activity-->
+    <string name="MyData">Ver Datos</string>
+
+    <!-- Information Activity-->
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Name">Nombre:</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16-I04-001</string>
+
+    <!-- Login Activity-->
+    <string name="msgCancel" translatable="false">RESET</string>
+    <string name="conditions" translatable="false">I accept terms and conditions.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LOGIN">LOGIN</string>
+
+    <!-- Play Activity-->
+    <string name="done">DONE</string>
+    <string name="guess">GUESS THE NUMBER</string>
+    <string name="attempts">Number of attempts allowed:</string>
+    <string name="enter">Enter a number from 1 to 10</string>
+    <string name="user">User:</string>
+
+    <!-- Clue Activity-->
+    <string name="clue">CLUE</string>
+    <string name="txt_correct_answer">Correct Answer</string>
+    <string name="txt_answer">Answer</string>
+
+    <!-- Score Activity-->
+    <string name="score">Score</string>
+    <string name="actual_score">Actual Score: 0</string>
+    <string name="accu_score">Accumulated Score: 0</string>
+    <string name="see_score">SEE SCORE</string>
+</resources>
